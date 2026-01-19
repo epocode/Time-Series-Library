@@ -1,0 +1,3 @@
+imputation_test_imp_TimesNet_ETTh1_ftM_sl96_ll0_pl0_dm16_nh8_el2_dl1_df32_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+mse:0.08691773563623428, mae:0.2008693367242813
+

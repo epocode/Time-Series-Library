@@ -166,3 +166,6 @@ result_anomaly_detection.txt
 scripts/augmentation/
 run_anylearn.py
 environment.txt
+
+# 手动添加
+dataset/
