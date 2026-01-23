@@ -1,0 +1,1 @@
+使用timesfm库的时候，不要直接pip install，因为pypi最新版本只支持到了2.0的timesfm。要使用2.5版本，需要手动从github clone，然后在对应的文件夹下执行`uv pip isntall -e .`
